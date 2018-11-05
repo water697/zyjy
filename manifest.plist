@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://114.215.149.47:8078/zhy/zhy.ipa</string>
+					<string>https://github.com/water697/zyjy/blob/master/zhy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://114.215.149.47:8078/zhy/57.png</string>
+					<string>https://github.com/water697/zyjy/blob/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://114.215.149.47:8078/zhy/512.png</string>
+					<string>https://github.com/water697/zyjy/blob/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
